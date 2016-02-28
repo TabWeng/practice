@@ -1,0 +1,31 @@
+/*#pageHead {
+	background-color: #717075;
+	margin: 0;
+	height: 81px;
+	line-height: 81px;
+}
+
+#pageHead p {
+	font-size: 50px;
+	font-family: arial black;
+}*/
+
+#the-head {
+	height: 81px;
+	background-color: #717075;
+}
+
+#Brand-name{
+	padding-top:25px;
+	color:#fff;
+	font-size: 50px;
+	font-family: Eras Bold ITC;
+}
+
+#theName {
+	color: #8DC63F;
+}
+
+#theO{
+	color: #000;
+}
